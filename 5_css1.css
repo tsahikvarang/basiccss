@@ -19,6 +19,8 @@ html{
 	
 	margin-left: 10px;
 	width: 850px;
+
+	line-height: 30px;
 	
 	padding-left: 35px;
 	padding-top: 20px;
@@ -72,4 +74,5 @@ td{
 th{
 	background-color: lightgrey;
 	border: 1px solid black;
+
 }
